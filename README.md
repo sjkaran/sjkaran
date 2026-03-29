@@ -46,10 +46,14 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjkaran&show_icons=true&locale=en" alt="sjkaran" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sjkaran&" alt="sjkaran" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sjkaran&theme=dark&hide_border=false)
+
+## 🕹️ Contribution Graph
+
+![Contributions](https://img.shields.io/badge/contributions-353-00ff88?style=for-the-badge&logo=github&labelColor=0d0d1a&color=00ff88)
+![Streak](https://img.shields.io/badge/streak-7%20days-059669?style=for-the-badge&labelColor=0d0d1a)
+
+<!-- Pixel-theme Activity Graph (live, auto-updates) -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sjkaran&bg_color=0d0d1a&color=00ff88&line=059669&point=00ff88&area=true&area_color=064e3b&hide_border=true&custom_title=CONTRIBUTION+GRAPH&font_color=00ff88&radius=2)](https://github.com/sjkaran)
 
 
-<!-- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <!-- <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
-</div>
