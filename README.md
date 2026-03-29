@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Shubhrajit Karan</h1>
-<h3 align="center">Learning from building stuffs</h3>
+<h3 align="center">Learning by building stuffs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjkaran&label=Profile%20views&color=0e75b6&style=flat" alt="sjkaran" /> </p>
 
