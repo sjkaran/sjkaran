@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Whisper and sounddevice**
 
-- 👯 I’m looking to collaborate on [Smart Library](https://github.com/Deboleena9/Smart_library)
+- 👯 I’m currently contributing on [Smart Library](https://github.com/Deboleena9/Smart_library)
 
 - 🤝 I’m looking for help with [Biz Track Mobile App](https://github.com/sjkaran/biz_track_mobile)
 
