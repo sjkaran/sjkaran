@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 ## 🕹️ Contribution Graph
 
-![Contributions](https://img.shields.io/badge/contributions-353-00ff88?style=for-the-badge&logo=github&labelColor=0d0d1a&color=00ff88)
-![Streak](https://img.shields.io/badge/streak-7%20days-059669?style=for-the-badge&labelColor=0d0d1a)
+<!-- ![Contributions](https://img.shields.io/badge/contributions-353-00ff88?style=for-the-badge&logo=github&labelColor=0d0d1a&color=00ff88)
+![Streak](https://img.shields.io/badge/streak-7%20days-059669?style=for-the-badge&labelColor=0d0d1a) -->
 
 <!-- Pixel-theme Activity Graph (live, auto-updates) -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sjkaran&bg_color=0d0d1a&color=00ff88&line=059669&point=00ff88&area=true&area_color=064e3b&hide_border=true&custom_title=CONTRIBUTION+GRAPH&font_color=00ff88&radius=2)](https://github.com/sjkaran)
