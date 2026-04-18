@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjkaran&label=Profile%20views&color=0e75b6&style=flat" alt="sjkaran" /> </p>
 
-- 🔭 I’m currently working on [Voice Engine](https://github.com/sjkaran/voice_engine)
+- 🔭 I’m currently working on [Receptionist AI ](https://github.com/sjkaran/receptionist_ai) and [Voice Engine](https://github.com/sjkaran/voice_engine)
 
 - 🌱 I’m currently learning **Whisper and sounddevice**
 
