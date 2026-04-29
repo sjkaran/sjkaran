@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Shubhrajit Karan</h1>
+<h1 align="center">Hi , I am Shubhrajit Karan</h1>
 <h3 align="center">Learning by building stuffs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjkaran&label=Profile%20views&color=0e75b6&style=flat" alt="sjkaran" /> </p>
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Whisper and sounddevice**
 
-- 👯 I’m currently contributing on [Smart Library](https://github.com/Deboleena9/Smart_library)
+<!-- 👯 I’m currently contributing on [Smart Library](https://github.com/Deboleena9/Smart_library) -->
 
 - 🤝 I’m looking for help with [Biz Track Mobile App](https://github.com/sjkaran/biz_track_mobile)
 
