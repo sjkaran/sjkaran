@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi , I am Shubhrajit Karan</h1>
-<h3 align="center">Learning by building stuffs</h3>
+<h3 align="center">Learning by Building stuffs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjkaran&label=Profile%20views&color=0e75b6&style=flat" alt="sjkaran" /> </p>
 
@@ -47,15 +47,17 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjkaran&show_icons=true&locale=en" alt="sjkaran" /></p> -->
 
-## Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=sjkaran&theme=dark&hide_border=false)
+## 🔥 Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=sjkaran&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=39d353&fire=f7891a&currStreakLabel=39d353&dates=8b949e&sideLabels=39d353&currStreakNum=e6edf3&sideNums=e6edf3&border_radius=10)
 
-## 🕹️ Contribution Graph
 
-<!-- ![Contributions](https://img.shields.io/badge/contributions-353-00ff88?style=for-the-badge&logo=github&labelColor=0d0d1a&color=00ff88)
-![Streak](https://img.shields.io/badge/streak-7%20days-059669?style=for-the-badge&labelColor=0d0d1a) -->
+## Profile Summary
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjkaran&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<!-- Pixel-theme Activity Graph (live, auto-updates) -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sjkaran&bg_color=0d0d1a&color=00ff88&line=059669&point=00ff88&area=true&area_color=064e3b&hide_border=true&custom_title=CONTRIBUTION+GRAPH&font_color=00ff88&radius=2)](https://github.com/sjkaran)
 
+## Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sjkaran&bg_color=0d1117&color=39d353&line=26a641&point=39d353&area=true&area_color=0e4429&hide_border=true&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
