@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Voice Engine](https://github.com/sjkaran/voice_engine)
 
-- 🌱 I’m currently learning **Whisper and sounddevice**
+- 🌱 I’m currently learning **Whisper(by Open-AI)** and **sounddevice**
 
 <!-- 👯 I’m currently contributing on [Smart Library](https://github.com/Deboleena9/Smart_library) -->
 
