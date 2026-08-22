@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjkaran&show_icons=true&locale=en" alt="sjkaran" /></p> -->
 
-## 🔥 Contribution Streak
+<!-- ## 🔥 Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=sjkaran&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=39d353&fire=f7891a&currStreakLabel=39d353&dates=8b949e&sideLabels=39d353&currStreakNum=e6edf3&sideNums=e6edf3&border_radius=10)
-
+-->
 
 ## Profile Summary
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjkaran&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
