@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjkaran&label=Profile%20views&color=0e75b6&style=flat" alt="sjkaran" /> </p>
 
-- 🔭 I’m currently working on [Learn Log](https://github.com/sjkaran/Learn_Log)
+- 🔭 I’m currently working on [Campus-cod](https://github.com/sjkaran/campus-cod) and [livelihood](https://github.com/sjkaran/livelihood_SIH)
 
-- 🌱 I’m currently learning **Whisper(by Open-AI)** and **sounddevice**
+- 🌱 I’m currently learning **Natural Language Processing** and **Sound device**
 
 <!-- 👯 I’m currently contributing on [Smart Library](https://github.com/Deboleena9/Smart_library) -->
 
