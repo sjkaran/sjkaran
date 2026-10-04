@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 | **Tooling** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
 ---
-
+<!--
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -85,6 +85,8 @@ Here are some ideas to get you started:
   <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/sjkaran/sjkaran/output/github-snake.svg" />
 </picture>
 </div>
+
+--!>
 
 ---
 
