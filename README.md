@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-- 🔭 **Currently building:** [Campus Cod](https://github.com/sjkaran/campus-cod) and [LiveliHood](https://github.com/sjkaran/livelihood_SIH)
+- 🔭 **Currently building:** [LiveliHood](https://github.com/sjkaran/livelihood_SIH)
 - 🌱 **Currently learning:** Natural Language Processing and speech / audio processing
 - 🤝 **Looking for help with:** [LiveliHood](https://github.com/sjkaran/livelihood_SIH)
 - 💬 **Ask me about:** Python, Tkinter / CustomTkinter, and packaging desktop apps
