@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🔭 **Currently building:** [LiveliHood](https://github.com/sjkaran/livelihood_SIH)
 - 🌱 **Currently learning:** Natural Language Processing and speech / audio processing
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | What it does | Built with |
 |---|---|---|
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Area | Technologies |
 |---|---|
@@ -73,6 +73,13 @@ Here are some ideas to get you started:
 | **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 | **Storage** | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
 | **Tooling** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+
+## Github Activities
+<div align="center">
+
+<img width="48%" src="https://streak-stats.demolab.com?user=sjkaran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 <!--
