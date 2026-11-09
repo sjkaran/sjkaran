@@ -77,7 +77,9 @@ Here are some ideas to get you started:
 ## Github Activities
 <div align="center">
 
-<img width="48%" src="https://streak-stats.demolab.com?user=sjkaran&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![](https://github-readme-stats.shion.dev/api?username=sjkaran&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sjkaran&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sjkaran&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
