@@ -77,9 +77,7 @@ Here are some ideas to get you started:
 ## Github Activities
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=sjkaran&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sjkaran&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sjkaran&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=sjkaran&theme=ayu)
 
 </div>
 
