@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 ## Github Activities
 <div>
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=sjkaran&theme=ayu)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=sjkaran&theme=midnight&border_radius=28.5&custom_title=Github+Stats)
 
 </div>
 
