@@ -79,6 +79,10 @@ Here are some ideas to get you started:
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=sjkaran&theme=midnight&border_radius=28.5&custom_title=Github+Stats)
 
+
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=sjkaran&theme=forest&days=30&width=412&height=140)
+
+
 </div>
 
 ---
