@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 | **Tooling** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
 ## Github Activities
-<div align="center">
+<div>
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=sjkaran&theme=ayu)
 
