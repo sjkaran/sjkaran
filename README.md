@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 ## Github Activities
 <div>
 
-![Streak](https://streak-stats.demolab.com?user=sjkaran&theme=green_nur)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjkaran&theme=dark&border_radius=7&timezone=IST&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
