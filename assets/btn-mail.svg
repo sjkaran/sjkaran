@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 46" width="230" height="46" role="img">
+<style>text{font-family:ui-sans-serif,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs><linearGradient id="sh"><stop offset="0" stop-color="#FFB454" stop-opacity="0"/><stop offset=".5" stop-color="#FFB454" stop-opacity=".6"/><stop offset="1" stop-color="#FFB454" stop-opacity="0"/></linearGradient><clipPath id="cp"><rect width="230" height="46" rx="22"/></clipPath></defs>
+<rect x="1" y="1" width="228" height="44" rx="22" fill="#141B3B" stroke="#FFB454" stroke-width="1.5"/><g clip-path="url(#cp)"><rect x="-80" y="1" width="60" height="44" fill="url(#sh)" opacity=".5"><animate attributeName="x" values="-80;250" dur="3.2s" repeatCount="indefinite"/></rect></g><text x="115.0" y="29" text-anchor="middle" font-size="16" font-weight="700" fill="#E8ECFF">Say hello</text>
+</svg>
